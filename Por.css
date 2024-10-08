@@ -1,5 +1,5 @@
 css
-/* Mengatur margin dan padding default untuk semua elemen */
+
 * {
     margin: 0;
     padding: 0;
@@ -7,14 +7,14 @@ css
     font-family: 'Arial', sans-serif;
 }
 
-/* Mengatur warna latar belakang untuk seluruh halaman */
+
 body {
     background-color: #4a1c1c;
     color: white;
     line-height: 1.6;
 }
 
-/* Bagian header */
+
 header {
     background-color: #3d1414;
     padding: 20px;
@@ -48,7 +48,7 @@ header h1 {
     margin-top: 20px;
 }
 
-/* Bagian bio */
+
 .bio {
     background-color: #3d1414;
     padding: 30px;
@@ -65,7 +65,6 @@ header h1 {
     margin: 5px 0;
 }
 
-/* Bagian pendidikan */
 .education {
     padding: 30px;
     text-align: center;
@@ -89,14 +88,13 @@ header h1 {
 
 .school img {
     width: 400px;
-    border-radius: 10px;
+    border-radius: 200px;
 }
 
 .school p {
     margin: 10px 0;
 }
 
-/* Bagian footer (Kontak) */
 footer {
     background-color: #3d1414;
     padding: 20px;
