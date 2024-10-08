@@ -25,7 +25,7 @@ header h1 {
     font-size: 28px;
 }
 
-/* Bagian perkenalan (Intro) */
+
 .intro {
     text-align: center;
     padding: 40px 20px;
@@ -83,11 +83,12 @@ header h1 {
 
 .school {
     width: 20px;
+    height: 10px;
     margin-bottom: 20px;
 }
 
 .school img {
-    width: 400px;
+    width: 20px;
     Haight:20px;
     border-radius: 10px;
 }
