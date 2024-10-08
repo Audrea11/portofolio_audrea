@@ -82,16 +82,13 @@ header h1 {
 }
 
 .school {
-    width: 20px;
-    margin-bottom: 20px;
+    width: 20%;
+    margin-bottom: 10px;
 }
 
 .school img {
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    border-radius: 50%;
-    margin-bottom: 20px;
+    width: 400%;
+    margin-bottom: 10px
 }
 
 .school p {
