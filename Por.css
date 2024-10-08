@@ -83,12 +83,12 @@ header h1 {
 }
 
 .school {
-    width: 30%;
+    width: 30px;
     margin-bottom: 20px;
 }
 
 .school img {
-    width: 100%;
+    width: 100px;
     border-radius: 10px;
 }
 
