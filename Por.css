@@ -82,13 +82,13 @@ header h1 {
 }
 
 .school {
-    width: 20%;
-    margin-bottom: 10px;
+    width: 30%;
+    margin-bottom: 20px;
 }
 
 .school img {
-    width: 400%;
-    margin-bottom: 10px
+    width: 100%;
+    border-radius: 10px;
 }
 
 .school p {
